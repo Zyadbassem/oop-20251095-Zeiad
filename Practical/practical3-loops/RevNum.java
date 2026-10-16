@@ -6,7 +6,6 @@ public class RevNum {
         System.out.print("Enter a number: ");
         int n = input.nextInt();
         int newNum = 0;
-        
         while (n > 0)
         {
             newNum *= 10;
